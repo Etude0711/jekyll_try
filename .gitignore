@@ -1,0 +1,25 @@
+# Jekyll生成的站点文件
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# 本地Ruby环境
+.bundle/
+vendor/
+
+# 日志文件
+*.log
+
+# MacOS系统文件
+.DS_Store
+
+# Windows系统文件
+Thumbs.db
+ehthumbs.db
+
+# IDE和编辑器文件夹
+.idea/
+.vscode/
+*.swp
+*.swo
