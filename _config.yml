@@ -1,8 +1,8 @@
 # 网站设置
-title: 我的简易Jekyll网站
+title: A计划 - 足球数据分析
 email: your-email@example.com
 description: >- # 这意味着忽略换行符直到"baseurl:"
-  这是一个简单的Jekyll网站，专为GitHub Pages设计。您可以在这里添加您的网站描述。
+  A计划足球数据分析平台 - 专业的足球数据分析，提供精准的比赛分析和统计数据，助您洞察比赛背后的规律。
 baseurl: "/jekyll_try" # 网站子路径，例如 /blog
 url: "" # 网站的基础主机名和协议，例如 http://example.com
 twitter_username: jekyllrb
