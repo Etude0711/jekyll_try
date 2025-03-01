@@ -1,0 +1,25 @@
+# 网站设置
+title: 我的简易Jekyll网站
+email: your-email@example.com
+description: >- # 这意味着忽略换行符直到"baseurl:"
+  这是一个简单的Jekyll网站，专为GitHub Pages设计。您可以在这里添加您的网站描述。
+baseurl: "" # 网站子路径，例如 /blog
+url: "" # 网站的基础主机名和协议，例如 http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# 构建设置
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# 排除的文件和文件夹
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
